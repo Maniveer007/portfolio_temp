@@ -29,7 +29,7 @@ const AboutSection = () => {
           <div className="md:w-1/2 ">
             
             <p>
-              Hi, my name is Harshan and I am a{" "}
+              Hi, my name is Maniveer and I am a{" "}
               <span className="font-bold">{"highly ambitious"}</span>,
               <span className="font-bold">{" self-motivated"}</span>, and
               <span className="font-bold">{" driven"}</span> Blockchain  Developer
